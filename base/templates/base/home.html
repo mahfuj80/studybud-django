@@ -42,13 +42,7 @@
     </div>
     {% endfor %}
   </div>
-  <div class="">
-    <h3>RECENT ACTIVITIES</h3>
-    <hr/>
-    {% for message in room_messages %}
-    <p>@{{ message.user }} {{message.created|timesince}}</p>
-    {%endfor%}
-  </div>
+ {% include "base/activity_component.html" %}
 </div>
 
 {% endblock content %}
