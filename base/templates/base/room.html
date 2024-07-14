@@ -1,19 +1,4 @@
 {% extends "main.html" %} {% block content %}
-<<<<<<< HEAD
-<h1>Rooom Template</h1>
-<h3>{{room.name}}</h3>
-<p>{{room.description}}</p>
-
-<div class="comment-wrapper">
-  <h3>Conversation</h3>
-  <hr />
-  {% for message in messages %}
-  <div class="comment">
-    <small>{{message.user.username}} {{message.created}}</small>
-    <p>{{message.content}}</p>
-  </div>
-  {% endfor %}
-=======
 
 <style type="text/css">
   .room-container {
@@ -60,7 +45,6 @@
     </div>
     {% endfor %}
   </div>
->>>>>>> 715eba50b4d87be7aeff7a68b12905743007ae88
 </div>
 
 {% endblock content %}
