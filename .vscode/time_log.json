@@ -1,0 +1,126 @@
+{
+  "studybud-django": {
+    "dfkj.git": [
+      {
+        "date": "2024-08-10T14:25:33.845Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 1
+      }
+    ],
+    "base\\views.py": [
+      {
+        "date": "2024-08-10T14:25:37.897Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2024-08-10T14:26:03.885Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 27
+      },
+      {
+        "date": "2024-08-10T14:27:13.703Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 70
+      },
+      {
+        "date": "2024-08-10T14:27:37.341Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 24
+      }
+    ],
+    "base\\views.py.git": [
+      {
+        "date": "2024-08-10T14:28:59.760Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2024-08-10T14:29:15.199Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2024-08-10T15:10:18.020Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 2462
+      },
+      {
+        "date": "2024-08-10T15:23:07.390Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 768
+      }
+    ],
+    "requirements.txt.git": [
+      {
+        "date": "2024-08-10T15:59:25.394Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 101
+      },
+      {
+        "date": "2024-08-10T16:01:39.125Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 133
+      }
+    ],
+    ".gitignore.git": [
+      {
+        "date": "2024-08-10T16:03:43.196Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 123
+      },
+      {
+        "date": "2024-08-10T16:03:59.405Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 18
+      },
+      {
+        "date": "2024-08-10T16:04:04.578Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 5
+      }
+    ]
+  }
+}
