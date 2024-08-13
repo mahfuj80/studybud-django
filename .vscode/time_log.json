@@ -258,6 +258,14 @@
           "email": "mahfujurrahman06627@gmail.com"
         },
         "timeSpent": 20
+      },
+      {
+        "date": "2024-08-13T10:43:30.798Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 28
       }
     ],
     "base\\views.py.git": [
@@ -884,6 +892,94 @@
           "email": "mahfujurrahman06627@gmail.com"
         },
         "timeSpent": 61
+      },
+      {
+        "date": "2024-08-13T10:40:23.648Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 56
+      },
+      {
+        "date": "2024-08-13T10:42:23.018Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 64
+      },
+      {
+        "date": "2024-08-13T10:42:42.376Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 21
+      },
+      {
+        "date": "2024-08-13T10:46:39.623Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2024-08-13T10:46:55.706Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 17
+      },
+      {
+        "date": "2024-08-13T10:47:38.209Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 43
+      },
+      {
+        "date": "2024-08-13T10:48:11.869Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 33
+      },
+      {
+        "date": "2024-08-13T10:48:24.918Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2024-08-13T10:49:55.365Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2024-08-13T10:50:58.643Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 64
+      },
+      {
+        "date": "2024-08-13T10:54:32.643Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 214
       }
     ],
     "requirements.txt.git": [
@@ -2148,6 +2244,30 @@
           "email": "mahfujurrahman06627@gmail.com"
         },
         "timeSpent": 27
+      },
+      {
+        "date": "2024-08-13T10:43:41.918Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2024-08-13T10:43:54.966Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2024-08-13T10:44:07.228Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 12
       }
     ],
     "base\\templates\\base\\home_old.html.git": [
@@ -7698,6 +7818,90 @@
           "email": "mahfujurrahman06627@gmail.com"
         },
         "timeSpent": 29
+      }
+    ],
+    "base\\templates\\base\\activity.html.git": [
+      {
+        "date": "2024-08-13T10:41:03.851Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 25
+      },
+      {
+        "date": "2024-08-13T10:41:09.289Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2024-08-13T10:49:29.546Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 26
+      }
+    ],
+    "base\\templates\\base\\activity.html": [
+      {
+        "date": "2024-08-13T10:45:47.221Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2024-08-13T10:45:48.052Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2024-08-13T10:45:51.727Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2024-08-13T10:46:08.517Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2024-08-13T10:46:08.984Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2024-08-13T10:46:09.072Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2024-08-13T10:46:10.254Z",
+        "user": {
+          "name": "mahfuj80",
+          "email": "mahfujurrahman06627@gmail.com"
+        },
+        "timeSpent": 1
       }
     ]
   }
